@@ -2,4 +2,8 @@
 
 Repo for working through this [GraphQL Full Course][def]
 
+## Startup
+
+graphql\server>nodemon app
+
 [def]: https://www.youtube.com/watch?v=ed8SzALpx1Q
