@@ -2,8 +2,12 @@
 
 Repo for working through this [GraphQL Full Course][def]
 
-## Startup
+## Startup Backend Server
 
 graphql\server>nodemon app
+
+## Startup React app
+
+graphql\client>npm start
 
 [def]: https://www.youtube.com/watch?v=ed8SzALpx1Q
